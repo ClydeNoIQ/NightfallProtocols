@@ -35,4 +35,4 @@ We welcome contributions to NightfallProtocols! Whether you're fixing a bug, pro
 - [glance](https://github.com/glancist) for the help with un-seen item translation (crafting data and creative content packets)
 - [jack](https://github.com/didntpot) for the help with compression for 1.20.50
 
-And contributors who have worked on this project by making issues and pull requests!
+And contributors who have worked on this project by making issues and pull requests!!
